@@ -1,4 +1,4 @@
-# BankPortfolio
+# Bank portfolio
 
 A console application to categorize trades in a bank's portfolio.
 
