@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/BankPortfolio/bin/Debug/net6.0
+/BankPortfolio/obj
+/BankPortfolio.Application/bin/Debug/net6.0
+/BankPortfolio.Application/obj
+/BankPortfolio.CrossCutting/bin/Debug/net6.0
+/BankPortfolio.CrossCutting/obj
+/BankPortfolio.Domain/bin/Debug/net6.0
+/BankPortfolio.Domain/obj
+/Test/BankPortfolio.Test/bin/Debug/net6.0
+/Test/BankPortfolio.Test/obj
